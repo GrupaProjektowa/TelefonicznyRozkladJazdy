@@ -1,0 +1,23 @@
+Planowanie podróży - system wyszukiwania połączeń - wyszukiwarka
+Sprawdzenie rozkładów jazdy - przeglądarka rozkładów jazdy - przeglądarka
+Wizualizacja przebiegu tras według numerów linii autobusowych
+Wizualizacja położenia przystanków
+A w tym: Wyszukiwanie przystanków po nazwie przystanków (jeżeli takowe są stosowane w mieście) oraz po nazwie ulicy (i tutaj trzeba by bylo rozwiązać umiejscowienie na długich ulicach - np u nas Zwycięstwa - nie iwem czy zbiegi uliz brać pod uwagę czy odrazu GPS? Przyjmuję z GPS)
+Wyświetlenie numerów linii dostępnych na danym przystanku
+Wyszukiwanie przystanków po numerach linii autobusowych
+Wyświetlenie przystanków na danej linii autobusowej
+Funkcja "MAPA" a w tym: Określenie pozycji geograficznej urządzenia
+Planowanie podróży, wybór i zatwierdzenie oraz wizualizacja planowanej podróży z określeniem daty i godziny przy braku wyboru pobieranie aktualnego czasu (aby pominąć tą funkcję) wskazanie planowanego dojazdu.
+Funkcja planowania odwrotnego (wskazanie o której mam gdzieś być) Wyszukanie trasy, wskazanie najbliższego przystanku, numeru autobusui godzinę odjazdu
+Opcja wybrania ilości przesiadek
+Wyszukiwanie i wyświetlenie najbliższych w stosunku do aktualnej pozycji przystanków autobusowych i odległości do nich (nie w linii prostej tylko rzeczywista tak jak pokazuje np google maps)
+Interfejs w języku polskim
+Dynamiczne autouzupełnienie wpisywanych ulic oraz interpretowanie ogolnie stosowanych skrótów ulic
+Możliwość rozpoznawania zapisów bez polskich znaków (młodzież nie stosuje ogonków)
+
+TO PONIŻEJ TO RACZEJ DO NIEFUNKCJONALNYCH :) Analityk pewnie przeniesie tam.
+Aplikacja mobilna ma reprezentować:
+Przyjazność (jak najmniej "klikania" do osiągnięcia celu,
+intuicyjność (czytelne i zrozumiałe z ewentualnymi podpowiedziami),
+dostępność (osoby niepełnosprawne)
+zgodność (Android, Linux, Windows, MAC)
