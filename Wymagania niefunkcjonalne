@@ -1,0 +1,22 @@
+1. Graficzne zobrazowanie miasta,obecnej lokalizacji, tras autobusowych i przystanków w
+sposób przejrzysty i czytelny.(żywe kolory, duży kontrast między trasą przejazdu a innymi ulicami,
+wyraźne oznaczenie obecnej pozycji)
+2. Wyznaczanie tras dojazdu z uwzględnieniem przesiadki lub udania się na inny przystanek
+(Czy opłaca się pojechać dwoma, czy podejść kawałek na przystanek z którego da się dojechać jednym etc.)
+3. Moduł umożliwiający zakupienie biletu drogą internetową(TO nie żart. W Szczecinie znajoma kupiła mi bilet na autobus
+telefonem przez neta :) )
+4. Odnośnie miast z biletami czasowymi - Ile zajmie podróż(na podstawie rozkładu jazdy naturalnie, 
+ale tutaj pojawi się sugestia jaki bilet kupić, żeby było najwydajniej)
+5. Wzbogacenie mapy miasta o "Interesting places". Kawiarnie, kina, dentysta etc.
+(Klient sobie szuka baru, klika i wyskakuje mu plan podróży do tego miejsca z jego obecnego miejsca ze wszystkimi
+informacjami z innych modułów). Można tu dorzucić okienko z danymi pobieranymi z fejsa(większość szanujących się 
+miejsc ma profil na fejsie) odnośnie miejsca do którego chcemy się udać.
+6. Moduł do kontaktów towarzyskich umożliwiający umówienie się z kimś kto "celuje podobnie". 
+Klient taguje trasę, którą zamierza jechać i wrzuca info czy ma ochotę się z kimś spotkać, czy wspólnie
+pograć sobie w nogę na Orliku itd. Przyznam, że ten pomysł bardzo mi się podoba. Jest silnie rozwojowy.
+Nie ma to jak uspołecznienie aplikacji :) )
+8. Interfejs w języku polskim
+9. Dzwiękowe i graficzne potwierdzenie wyboru, kliknięć, interakcji z aplikacją.
+10. Kilka szablonów graficznych umożliwiających lepsze dopasowanie do upodobań użytkownika oraz
+automatycznie dobierających się do rozmiaru wyświetlacza(Na mniejszych urządzeniach nie da się zmieścić
+tego co na tabletach na przykład nie tracąc na czytelności a więc z czegoś trzeba zrezygnować)
