@@ -1,0 +1,67 @@
+Interfejs aplikacji   TELEFONICZNY ROZKŁAD JAZDY:
+
+
+1. Aplikacja powinna być wyświetlana na pełnym ekranie urządzenia mobilnego, z możliwością minimalizacji. 
+
+2. Wszystkie elementy interfejsu dostosowują się do rozdzielczości ekranu.
+
+3. Możliwość zmiany tapety - koloru - deseniu wyświetlanego na każdej z płaszczyzn interfejsu [jedna wybrana na wszystkie płaszczyzny]
+
+4. Pasek pomocniczy, na którym będą umieszczone wszystkie funkcje powinien się wysuwać spoza ekranu. Na nim będą graficznie przedstawione funkcje i podpisane hasłowo np. trasa, przystanek, help.[szczegółowy opis poniżej]
+
+5. Po uruchomieniu danego modułu powinna się wyświetlać kolejna karta interfejsu charakterystyczna dla danej funkcji. W statusie w tym czasie zostaje wyświetlone, która funkcja została uruchomiona. Opis po niżej.
+
+_______________________________________ OPIS INTERFEJSU STRONY GŁÓWNEJ __________________________________________ 
+
+6. Na wysokości od 0 % do 5 % powinien być przycisk przełączający do panelu menu. Rozmiar : wysokość * szerokość  = 4% * dostosowany do szerokości wyświetlanego obrazu. Tekst na pasku "menu" wyśrodkowany. Czcionka kontrastująca z kolorem tła przycisku. 
+ 
+7. Obszar od 5% do 20% od góry powinien być przeznaczony na wyświetlanie informacji wprowadzonych przez kolejną zakładkę z paska pomocniczego. Powinien być ograniczony liniami odcinającymi powierzchnię w odległości 10% od boku z każdej strony i od góry 5% do 20%.
+
+8. na środku aplikacji 25% powierzchni od góry i od dołu, 10% od strony lewej i prawej powinna znajdować się mapa polski, na której będziemy przybliżać informacje wybrane dla danej funkcji
+
+9. Na wysokości 20% od dołu 50% od strony lewej do 75% od strony lewej, powinien znajdować się przycisk o zaokrąglonych rogach. Na nim powinien być przedstawiony graficznie symbol lupy ze znakiem plus. Po naciśnięciu powinny dawać efekt cienia. Długość przycisku to 10%.
+
+10. Na wysokości 20% od dołu 75% do 90% od strony lewej, powinien znajdować się przycisk przylegający do przycisku z lupą z plusem. Na nim powinien być przedstawiony graficznie symbol lupy ze znakiem minus. Po naciśnięciu powinny dawać efekt cienia. Długość przycisku to 10%.
+
+11. 5% od dołu powinien wyświetlać się status, na którego powierzchnię przeznaczone jest 5%.
+
+12. W dolnym rogu po prawej powinien znajdować się przycisk o wysokości * szerokości = 5% na 5% z symbolem przedstawiającym zamknięcie aplikacji ( barwa = czerwona, znak dowolny ), po naciśnięciu aplikacja zamyka wszystkie moduły i się wyłącza. 
+
+____________________________________ OPIS INTERFEJSU MENU _______________________________________________________ 
+
+13. Po włączeniu paska menu powinniśmy zobaczyć w lewym górnym rogu godzinę w wysokości ok. 10% obok datę, dzień, miesiąc - słownie, datę o wysokości 5%, oparte na wysokości 10% od góry. 
+
+14. 5% pod datą i godziną powinny być umieszczona linia (0,5 %) pod nią powinny być w odległości 5% umieszczone przyciski. Każdy z nich po naciśnięciu powinien dawać efekt cienia. Na każdym z nich powinien być charakterystyczny symbol odnoszący się do danej funkcji. Rogi przycisku powinny być zaokrąglone. Naciśnięcie powoduje uruchomienie dźwięku (dźwięk do wyboru w module "ustawienia" - jeden dla wszystkich przycisków).
+
+15.Przyciski  - o wysokości* szerokości = 20% * 26,66% odległość pomiędzy kolejnymi przyciskami powinna wynosić 5% w pionie i poziomie, jak i od lewej i prawej strony. Na ekranie powinno być wyświetlanych 3*3 ikon, co nam daje możliwość wyświetlenia 9 funkcji na jednej stronie. Ikony powinny być zamieszczone w oknie, które daje możliwość przeglądania zawartości (przewijanie w górę, w dół). 
+
+16. Pod ostatnią warstwą 5% od ich zakończenia powinna być strzałka skierowana w dół, która będzie zamykała menu, jeżeli nie zostanie dokonany żaden wybór. 
+
+17. Każde kliknięcie w przycisk z odpowiednią funkcją zamyka ekran menu i przełącza na interfejs konkretnej wybranej funkcji. Wysyła informację do paska status, co się dzieje w aplikacji, jaka czynność jest aktualnie wykonywana. 
+
+______________________________________ SZABLON  MODUŁU WYSZUKIWANIA ____________________________________________ 
+
+18. Moduł, który będzie można wykorzystać do kilku wybranych funkcji
+
+19. Na wysokości od 5% do 15% od góry powinno być miejsce pozwalające na wpisanie konkretnej ulicy, na której obecnie się znajdujemy. Odstęp 10% od lewej i od strony prawej powinien zaznaczać granicę tego pola.
+
+20. Na wysokości od 20% do 30% od góry powinno być miejsce pozwalające na wpisanie konkretnej ulicy kończącej trasę generowaną. Odstęp 10% od lewej i od strony prawej powinien zaznaczać granicę tego pola.
+
+21. Na wysokości 35% do 40 % od góry i 25% od strony lewej do 25% od strony prawej powinien znajdować się przycisk. Na przycisku powinien być napis "SZUKAJ" w pozycji wyśrodkowanej. 
+
+22. Na wysokości od 45% do 70% od góry powinno być pole tekstowe, na którym będzie wyświetlana informacja adekwatna do wybieranej funkcji.
+
+23. Na wysokości 75% do 80 % od góry i 25% od strony lewej do 25% od strony prawej powinien znajdować się przycisk. Na przycisku powinien być napis "ZATWIERDŹ" w pozycji wyśrodkowanej. Po naciśnięciu przycisku karta powinna się zamknąć, a informacje powinny być przekazane na pole do wyświetlenia na stronie głównej.
+
+_______________________________________ INTERFEJS POSZCZEGÓLNYCH FUNKCJI__________________________________________ 
+
+* Po analizie funkcjonalnej zostanie uzupełniony.
+
+
+________________________________________ SYMBOLE STOSOWANE DO PRZYCISKÓW Z MENU___________________________________ 
+
+
+* Po analizie funkcjonalnej zostanie uzupełniony.
+
+
+
