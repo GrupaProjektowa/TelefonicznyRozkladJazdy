@@ -1,0 +1,14 @@
+Diagram będzie jak DIA się odbiesi.
+- wprowadź miejsce docelowe (osoba)
+- ustal współrzędne miejsca docelowego (system)
+- określ aktualną pozycję GPS (system)
+- pobierz dane z bazy danych przystanków (system)
+- porównaj zgodność numerów autobusów pomiędzy miejscem aktualnym i docelowym (system)
+* jeżeli istnieje zgodność  - zapamiętaj
+* jeżeli nie ma zgodności - poszerz krąg poszukiwań
+- wprowadź godzinę przybycia (osoba)
+- wskaż 3 najbardziej zgodne (system)
+- wybierz połączenie (osoba)
+- włącz timer odliczający czas do odjazdu (system)
+- prowadź do przystanku (system)
+- pokaż pozostały czas do dojazdu (system)
